@@ -7,7 +7,7 @@
 ### Lifes
 
 ## Introduce a new rule
-Please make a pull request and the elderly of the table will deside if it's merge worthy.
+Please make a pull request and the elderly of the table will decide if it's merge-worthy.
 
 ## TODO:
 
