@@ -1,5 +1,11 @@
 # The Offical HackerOne Round The Table PingPong Rules
 
+## The rules
+
+### Walking directions
+
+### Lifes
+
 ## Introduce a new rule
 Please make a pull request and the elderly of the table will deside if it's merge worthy.
 
@@ -12,6 +18,6 @@ Write something about:
 - obstacle rules
 - direct response
 - table touch
-- vocabulary ("In the just", "laughing plural", "good seeing")
+- vocabulary ("In the just", "laughing plural", "good seeing", "life taker"
 - the classics (dirk, philip)
 - why you are not jens enough
