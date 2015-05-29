@@ -1,5 +1,8 @@
 # The Offical HackerOne Round The Table PingPong Rules
 
+## Introduce a new rule
+Please make a pull request and the elderly of the table will deside if it's merge worthy.
+
 ## TODO:
 
 Write something about:
