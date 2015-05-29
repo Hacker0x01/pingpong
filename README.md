@@ -1,12 +1,12 @@
-# The Offical HackerOne Round The Table PingPong Rules
+# The Offical HackerOne Round The Table PingPong Laws
 
-## The rules
+## The laws
 
 ### Walking directions
 
 ### Lifes
 
-## Introduce a new rule
+## Introduce a new law
 Please make a pull request and the elderly of the table will decide if it's merge-worthy.
 
 ## TODO:
