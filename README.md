@@ -3,7 +3,6 @@
 ## Vocabulary
 | Terminology   | Translates to |
 | ------------- |:-------------: |
-| RTT           | Round The Table |
 | "in the just" | Someone hit a ball into the net. |
 | "just"        | Someone hit a ball via the net onto the opponent's side. Mostly used when serving. |
 | "laughing"    | TODO |
