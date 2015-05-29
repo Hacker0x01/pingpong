@@ -36,7 +36,7 @@
 *Fun fact: Tinus Time is named after the famous player blocker [@martijnrusschen](https://github.com/martijnrusschen)*
 
 ### Obstacles
-- It's allowed to ["gandalf"](#vocabulary) another player. This happens often when it's [Tinus Time](#tinus-half-time) or when a player is deliberately trying to sabotage the other. 
+- It's allowed to ["gandalf"](#vocabulary) another player. This often happens during [Tinus Time](#tinus-half-time) or when a player is deliberately trying to sabotage the other. 
 - The blocked player has to shout "gandalf" and make an effort to still try to hit back the ball, preferrably hitting the blocker with the ping pong bat.
 
 ### Table Touch
