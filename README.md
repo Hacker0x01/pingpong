@@ -3,13 +3,13 @@
 ## Vocabulary
 | Terminology   | Translates to |
 | ------------- |:-------------: |
-| "in the just" | Someone hit a ball into the net. |
-| "just"        | Someone hit a ball via the net onto the opponent's side. Mostly used when serving. |
-| "laughing"    | TODO |
-| "good seeing" | TODO |
-| "life taker"  | Someone's life has been taken. Used when life was taken by a serve. |
-| "reset"       | Someone's second-to-last life has been taken, resetting his life score to one. |
-| "gandalfing"  | Players applying an "you shall not pass" action to another player, while the latter is trying to hit the ball. |
+| "(right) in the just" | Someone hit a ball into the net. |
+| "just"                | Someone hit a ball via the net onto the opponent's side. Mostly used when serving. |
+| "laughing"            | TODO |
+| "good seeing"         | TODO |
+| "life taker"          | Someone's life has been taken. Used when life was taken by a serve. |
+| "reset"               | Someone's second-to-last life has been taken, resetting his life score to one. |
+| "gandalfing"          | Players applying an "you shall not pass" action to another player, while the latter is trying to hit the ball. |
 
 ## The laws
 
