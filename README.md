@@ -9,7 +9,7 @@
 | "good seeing"         | TODO |
 | "life taker"          | Someone's life has been taken. Used when life was taken by a serve. |
 | "reset"               | Someone's second-to-last life has been taken, resetting his life score to one. |
-| "gandalfing"          | Players applying an "you shall not pass" action to another player, while the latter is trying to hit the ball. |
+| "gandalfing"          | Players applying a "you shall not pass" action to another player, while the latter is trying to hit the ball. |
 
 ## The laws
 
