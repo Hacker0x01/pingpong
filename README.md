@@ -8,7 +8,7 @@
 | "laughing"    | TODO |
 | "good seeing" | TODO |
 | "life taker"  | Someone's life has been taken. Mostly used when life was took by a serve. |
-| "reset"       | Someone's last life has been taken, resetting his life score to one. |
+| "reset"       | Someone's second-to-last life has been taken, resetting his life score to one. |
 
 ## The laws
 
