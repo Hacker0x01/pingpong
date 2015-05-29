@@ -37,4 +37,4 @@ Write something about:
 - why you are not jens enough
 - tinus (half) time
 - voting when in disagreement
-- cutting back into the line, even when you're out of the game
+- cutting back into the line, even when you're out of the game (aka ghost membering)
