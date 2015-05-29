@@ -18,7 +18,7 @@
 - Every player gets one life at the start of every round.
 - When a player wins a finale he will win a life.
 - Lives can be accumulated, there is no maximum.
-- Players losing a life are required to shout the number of remaining lives. A player lost his second-to-last life is required to shout "reset".
+- Players losing a life are required to shout the number of remaining lives. A player lost his second-to-last life is required to shout ["reset"](#vocabulary).
 - Players without any lives left lost the round.
 - Quitting the round voluntarily will automatically destroy all accumulated lives – it's either win or lose.
 
