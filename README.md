@@ -22,6 +22,15 @@
 - Players without any lives left lost the round.
 - Quitting the round voluntarily will automatically destroy all accumulated lives – it's either win or lose.
 
+### Direct Response
+- Direct Response is a move where you would directly hit the opponent's ball back without the ball having touched your side of the table.
+- It's illegal to do a Direct Response when the opponent just served.
+- Players can do a Direct Response as you as you don't cross the net/["just"](#vocabulary)
+
+### Tinus (half) time
+
+### Obstacles
+
 ## Introducing new laws
 Please make a pull request and the elderly of the table will decide if it's merge-worthy.
 
@@ -30,7 +39,6 @@ Please make a pull request and the elderly of the table will decide if it's merg
 Write something about:
 - walking directions
 - obstacle rules
-- direct response
 - table touch
 - vocabulary ("In the just", "laughing plural", "good seeing", "life taker", "life saver")
 - the classics (dirk, philip)
