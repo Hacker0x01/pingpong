@@ -57,7 +57,7 @@ Classics are common patterns that return in Round The Table matches, noticably b
 
 ## Voting
 - A voting system is applied when players are in disagreement, and it's not clear what really happened.
-- Voting at the ping pong table is similar to [Roman Voting](http://ancienthistory.about.com/od/romerepublic/qt/052611-How-the-Romans-Voted-in-the-Roman-Republic.htm), except the players use the colours of the ping pong bats. Black is for the benefit of doubt, red is elimination from the round.
+- Voting at the ping pong table is similar to [Roman Voting](http://ancienthistory.about.com/od/romerepublic/qt/052611-How-the-Romans-Voted-in-the-Roman-Republic.htm), except the players use the colours of their ping pong bats. Black means benefit of doubt, red results elimination from the round. The colour with the most votes rule.
 - When only a single player votes and holds up his ping pong bat to vote, that player is immediately eliminated from the round. When that player was already eliminated, he has to skip the next round.
 
 ## Introducing new laws
