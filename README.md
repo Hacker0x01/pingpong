@@ -33,7 +33,7 @@
 - Tinus Half Time is when one of the two finalists makes his first point. It is not allowed to join the table yet, but it's recommended to prepare for it.
 - Tinus Time is when it's a 1:1 score between the two finalist. It's allowed for the other players to join the table, creating pressure for the finalists to fail. Shouting is recommended.
 
-*Fun fact: Tinus Time is named after the famous player blocker [@martijnrusschen](https://github.com/martijnrusschen)*
+*Fun fact: Tinus Time is named after the famous player blocker [@martijnrusschen](https://github.com/martijnrusschen)*, who always prematurely joined the table before the finalists were finished.
 
 ### Obstacles
 - It's allowed to ["gandalf"](#vocabulary) another player. This often happens during [Tinus Time](#tinus-half-time) or when a player is deliberately trying to sabotage the other. 
