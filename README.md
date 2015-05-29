@@ -49,11 +49,9 @@ Please make a pull request and the elderly of the table will decide if it's merg
 
 Write something about:
 - walking directions
-- obstacle rules
-- table touch
 - vocabulary ("In the just", "laughing plural", "good seeing", "life taker", "life saver")
 - the classics (dirk, philip)
 - why you are not jens enough
-- tinus (half) time
 - voting when in disagreement
 - cutting back into the line, even when you're out of the game (aka ghost membering)
+- saving another player's life
