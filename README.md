@@ -32,7 +32,7 @@ Write something about:
 - obstacle rules
 - direct response
 - table touch
-- vocabulary ("In the just", "laughing plural", "good seeing", "life taker")
+- vocabulary ("In the just", "laughing plural", "good seeing", "life taker", "life saver")
 - the classics (dirk, philip)
 - why you are not jens enough
 - tinus (half) time
