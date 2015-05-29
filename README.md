@@ -7,7 +7,7 @@
 | "just"        | Someone hit a ball via the net onto the opponent's side. Mostly used when serving. |
 | "laughing"    | TODO |
 | "good seeing" | TODO |
-| "life taker"  | Someone's life has been taken. Mostly used when life was took by a serve. |
+| "life taker"  | Someone's life has been taken. Used when life was taken by a serve. |
 | "reset"       | Someone's second-to-last life has been taken, resetting his life score to one. |
 
 ## The laws
