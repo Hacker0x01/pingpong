@@ -18,6 +18,8 @@ Write something about:
 - obstacle rules
 - direct response
 - table touch
-- vocabulary ("In the just", "laughing plural", "good seeing", "life taker"
+- vocabulary ("In the just", "laughing plural", "good seeing", "life taker")
 - the classics (dirk, philip)
 - why you are not jens enough
+- tinus (half) time
+- voting when in disagreement
