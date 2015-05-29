@@ -2,7 +2,7 @@
 
 ## TODO:
 
-Write somehthing about:
+Write something about:
 - how to get a life
 - when to use your life
 - walking directions
