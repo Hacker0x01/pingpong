@@ -42,6 +42,24 @@
 ### Table Touch
 It's allowed to touch the table to support your body weight to smash the opponent by bending over the player's side of the table.
 
+### Classics
+Classics are common patterns that return in Round The Table matches, noticably by the same players, which is the reason why the classics are named after them.
+
+| Classics       | Translates to |
+| -------------  |:-------------: |
+| Classic Philip | The ball served by a player never hits the opponent's side by going over the table. Named after [@philipkocanda](https://github.com/philipkocanda) |
+| Classic Dirk   | The ball hits the net ([right in the just](#vocabulary)), mostly during serve. Named after [@DZittersteyn](https://github.com/DZittersteyn) |
+
+## Ghost Membering
+- Ghost Membering is for a player to sneak back to the table in the line of players while the player was hit out of the game.
+- It's allowed to Ghost Member, but when another player notices and confronts the player, the latter has to return to the side line.
+- It's allowed to try to Ghost Member multiple times during a single round.
+
+## Voting
+- A voting system is applied when players are in disagreement, and it's not clear what really happened.
+- Voting at the ping pong table is similar to [Roman Voting](http://ancienthistory.about.com/od/romerepublic/qt/052611-How-the-Romans-Voted-in-the-Roman-Republic.htm), except the players use the colours of the ping pong bats. Black is for the benefit of doubt, red is elimination from the round.
+- When only a single player votes and holds up his ping pong bat to vote, that player is immediately eliminated from the round. When that player was already eliminated, he has to skip the next round.
+
 ## Introducing new laws
 Please make a pull request and the elderly of the table will decide if it's merge-worthy.
 
@@ -50,8 +68,5 @@ Please make a pull request and the elderly of the table will decide if it's merg
 Write something about:
 - walking directions
 - vocabulary ("In the just", "laughing plural", "good seeing", "life taker", "life saver")
-- the classics (dirk, philip)
 - why you are not jens enough
-- voting when in disagreement
-- cutting back into the line, even when you're out of the game (aka ghost membering)
 - saving another player's life
