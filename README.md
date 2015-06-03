@@ -3,17 +3,20 @@
 ## Vocabulary
 | Terminology   | Translates to |
 | ------------- |:-------------: |
-| "(right) in the just" | Someone hit a ball into the net. |
-| "just"                | Someone hit a ball via the net onto the opponent's side. Mostly used when serving. |
-| "laughing"            | TODO |
-| "good seeing"         | TODO |
-| "life taker"          | Someone's life has been taken. Used when life was taken by a serve. |
-| "reset"               | Someone's second-to-last life has been taken, resetting his life score to one. |
-| "gandalfing"          | Players applying a "you shall not pass" action to another player, while the latter is trying to hit the ball. |
+| (right) in the just   | Someone hit a ball into the net. |
+| just                  | Someone hit a ball via the net onto the opponent's side. Mostly used when serving. |
+| laughing              | Haha |
+| good seeing           | Nice catch |
+| life taker            | Someone's life has been taken. Used when life was taken by a serve. |
+| life saver            | Someone's life has been [saved by another](#saving-another-players-life). |
+| reset                 | Someone's second-to-last life has been taken, resetting his life score to one. |
+| gandalfing            | Players applying a "you shall not pass" action to another player, while the latter is trying to hit the ball. |
 
 ## The laws
 
 ### Walking directions
+- The normal walking direction is counterclockwise.
+- It's allowed to deviate from the normal walking direction, as long as the player doesn't [gandalf](#vocabulary) another position or changes his place in the line.
 
 ### Lives
 - Every player gets one life at the start of every round.
@@ -26,7 +29,7 @@
 ### Direct Response
 - Direct Response is a move where you would directly hit the opponent's ball back without the ball having touched your side of the table.
 - It's illegal to do a Direct Response when the opponent just served.
-- Players can do a Direct Response as you as you don't cross the net/["just"](#vocabulary)
+- Players can do a Direct Response as you as you don't cross the net/[just](#vocabulary)
 
 ### Tinus (Half) Time
 - Tinus Half Time and Tinus Time only occurs during a final battle between the last two remaining players.
@@ -36,7 +39,7 @@
 *Fun fact: Tinus Time is named after the famous player blocker [@martijnrusschen](https://github.com/martijnrusschen)*, who always prematurely joined the table before the finalists were finished.
 
 ### Obstacles
-- It's allowed to ["gandalf"](#vocabulary) another player. This often happens during [Tinus Time](#tinus-half-time) or when a player is deliberately trying to sabotage the other. 
+- It's allowed to [gandalf](#vocabulary) another player. This often happens during [Tinus Time](#tinus-half-time) or when a player is deliberately trying to sabotage the other. 
 - The blocked player has to shout "gandalf" and make an effort to still try to hit back the ball, preferrably hitting the blocker with the ping pong bat.
 
 ### Table Touch
@@ -50,23 +53,23 @@ Classics are common patterns that return in Round The Table matches, noticably b
 | Classic Philip | The ball served by a player never hits the opponent's side by going over the table. Named after [@philipkocanda](https://github.com/philipkocanda) |
 | Classic Dirk   | The ball hits the net ([right in the just](#vocabulary)), mostly during serve. Named after [@DZittersteyn](https://github.com/DZittersteyn) |
 
-## Ghost Membering
+### Ghost Membering
 - Ghost Membering is for a player to sneak back to the table in the line of players while the player was hit out of the game.
 - It's allowed to Ghost Member, but when another player notices and confronts the player, the latter has to return to the side line.
 - It's allowed to try to Ghost Member multiple times during a single round.
 
-## Voting
+### Voting
 - A voting system is applied when players are in disagreement, and it's not clear what really happened.
 - Voting at the ping pong table is similar to [Roman Voting](http://ancienthistory.about.com/od/romerepublic/qt/052611-How-the-Romans-Voted-in-the-Roman-Republic.htm), except the players use the colours of their ping pong bats. Black means benefit of doubt, red results elimination from the round. The colour with the most votes rule.
 - When only a single player votes and holds up his ping pong bat to vote, that player is immediately eliminated from the round. When that player was already eliminated, he has to skip the next round.
 
+### Being not Jens enough
+"Jens" is a synonym for "good". Named after one of the wise elders of the ping pong table, [@jenskanis](https://github.com/jenskanis).
+
+### Saving another player's life
+- A player can save another player's life by hitting the ball back for the other player, when he's unable to hit it back
+- The player saving the other will loose his life if he makes a mistake. This way there is always a risk involved helping others.
+- The player saving the other is only allowed to make a defensive move. Only when the opponent screws up himself his life will be lost.
+
 ## Introducing new laws
 Please make a pull request and the elderly of the table will decide if it's merge-worthy.
-
-## TODO:
-
-Write something about:
-- walking directions
-- vocabulary ("In the just", "laughing plural", "good seeing", "life taker", "life saver")
-- why you are not jens enough
-- saving another player's life
