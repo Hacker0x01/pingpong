@@ -11,6 +11,8 @@
 | life saver            | Someone's life has been [saved by another](#saving-another-players-life). |
 | reset                 | Someone's second-to-last life has been taken, resetting his life score to one. |
 | gandalfing            | Players applying a "you shall not pass" action to another player, while the latter is trying to hit the ball. |
+| clawless victory      | Someone tries to grab the ball, but fails |
+| sporty                | Someone tries to pass the ball to the person that's supposed to serve, but fails (also see: clawless victory) |
 
 ## The laws
 
