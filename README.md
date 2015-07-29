@@ -31,9 +31,9 @@
 - It's illegal to do a Direct Response when the opponent just served.
 - Players can do a Direct Response as you as you don't cross the net/[just](#vocabulary)
 
-### Tinus (Half) Time
-- Tinus Half Time and Tinus Time only occurs during a final battle between the last two remaining players.
-- Tinus Half Time is when one of the two finalists makes his first point. It is not allowed to join the table yet, but it's recommended to prepare for it.
+### Tinus Time & Jan Time
+- Jan Time and Tinus Time only occurs during a final battle between the last two remaining players.
+- Jan Time is when one of the two finalists makes his first point. It is not allowed to join the table yet, but it's recommended to prepare for it.
 - Tinus Time is when it's a 1:1 score between the two finalist. It's allowed for the other players to join the table, creating pressure for the finalists to fail. Shouting is recommended.
 
 *Fun fact: Tinus Time is named after the famous player blocker [@martijnrusschen](https://github.com/martijnrusschen)*, who always prematurely joined the table before the finalists were finished.
