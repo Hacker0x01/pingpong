@@ -40,6 +40,14 @@
 
 *Fun fact: Tinus Time is named after the famous player blocker [@martijnrusschen](https://github.com/martijnrusschen)*, who always prematurely joined the table before the finalists were finished.
 
+### Dirty Tinus
+- When a player serves immediately after the mistake of a previous player and
+  manages to take a life
+- This is only allowed when the table is in a valid state; there's no
+  ball on the table
+- If a player purposefully tries a Dirty Tinus when the table is invalid,
+  that player loses a life
+
 ### Obstacles
 - It's allowed to [gandalf](#vocabulary) another player. This often happens during [Tinus Time](#tinus-half-time) or when a player is deliberately trying to sabotage the other. 
 - The blocked player has to shout "gandalf" and make an effort to still try to hit back the ball, preferrably hitting the blocker with the ping pong bat.
