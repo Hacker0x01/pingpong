@@ -41,8 +41,7 @@
 *Fun fact: Tinus Time is named after the famous player blocker [@martijnrusschen](https://github.com/martijnrusschen)*, who always prematurely joined the table before the finalists were finished.
 
 ### Dirty Tinus
-- When a player serves immediately after the mistake of a previous player and
-  manages to take a life
+- When a player serves immediately after the mistake of a previous player
 - This is only allowed when the table is in a valid state; there's no
   ball on the table
 - If a player purposefully tries a Dirty Tinus when the table is invalid,
