@@ -40,6 +40,11 @@
 
 *Fun fact: Tinus Time is named after the famous player blocker [@martijnrusschen](https://github.com/martijnrusschen)*, who always prematurely joined the table before the finalists were finished.
 
+### Tap Tap
+
+After the finals, the player that lost must tap his bat twice on the table **before** serving, signaling to others that another round can commence. Failing to do so means the player in question loses a life.
+When the player in question doesn't have any lives left, the same applies to the player who won.
+
 ### Dirty Tinus
 - When a player serves immediately after the mistake of a previous player
 - This is only allowed when the table is in a valid state; there's no
