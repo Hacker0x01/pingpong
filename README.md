@@ -43,7 +43,7 @@
 ### Tap Tap
 
 After the finals, the player that lost must tap his bat twice on the table **before** serving, signaling to others that another round can commence. Failing to do so means the player in question loses a life.
-When the player in question doesn't have any lives left, the same applies to the player who won.
+If the player in question doesn't have any lives left, this rule applies to the player who won the round.
 
 ### Dirty Tinus
 - When a player serves immediately after the mistake of a previous player
