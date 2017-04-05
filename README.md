@@ -6,6 +6,7 @@
 | (right) in the just   | Someone hit a ball into the net. |
 | just                  | Someone hit a ball via the net onto the opponent's side. Mostly used when serving. |
 | laughing              | Haha |
+| laughing plural       | Haha Haha |
 | good seeing           | Nice catch |
 | life taker            | Someone's life has been taken. Used when life was taken by a serve. |
 | life saver            | Someone's life has been [saved by another](#saving-another-players-life). |
