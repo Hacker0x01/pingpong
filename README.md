@@ -10,7 +10,7 @@
 | good seeing           | Nice catch |
 | life taker            | Someone's life has been taken. Used when life was taken by a serve. |
 | life saver            | Someone's life has been [saved by another](#saving-another-players-life). |
-| reset                 | Someone's second-to-last life has been taken, resetting his life score to one. |
+| reset                 | Someone's second-to-last life has been taken, resetting the life score to one. |
 | gandalfing            | Players applying a "you shall not pass" action to another player, while the latter is trying to hit the ball. |
 | clawless victory      | Someone tries to grab the ball, but fails |
 | sporty                | Someone tries to pass the ball to the person that's supposed to serve, but fails (also see: clawless victory) |
@@ -19,13 +19,13 @@
 
 ### Walking directions
 - The normal walking direction is counterclockwise.
-- It's allowed to deviate from the normal walking direction, as long as the player doesn't [gandalf](#vocabulary) another position or changes his place in the line.
+- It's allowed to deviate from the normal walking direction, as long as the player doesn't [gandalf](#vocabulary) another position or changes its place in the line.
 
 ### Lives
 - Every player gets one life at the start of every round.
 - When a player wins a finale the player will win a life.
 - Lives can be accumulated, there is no maximum.
-- Players losing a life are required to shout the number of remaining lives. A player lost his second-to-last life is required to shout ["reset"](#vocabulary).
+- Players losing a life are required to shout the number of remaining lives. A player lost its second-to-last life is required to shout ["reset"](#vocabulary).
 - Players without any lives left lost the round.
 - Quitting the round voluntarily will automatically destroy all accumulated lives – it's either win or lose.
 
@@ -43,14 +43,14 @@ If no proper remorse is shown the player taking the life loses a life **instead*
 
 ### Tinus Time & Jan Time
 - Jan Time and Tinus Time only occurs during a final battle between the last two remaining players.
-- Jan Time is when one of the two finalists makes his first point. It is not allowed to join the table yet, but it's recommended to prepare for it.
+- Jan Time is when one of the two finalists makes the first point. It is not allowed to join the table yet, but it's recommended to prepare for it.
 - Tinus Time is when it's a 1:1 score between the two finalist. It's allowed for the other players to join the table, creating pressure for the finalists to fail. Shouting is recommended.
 
 *Fun fact: Tinus Time is named after the famous player blocker [@martijnrusschen](https://github.com/martijnrusschen)*, who always prematurely joined the table before the finalists were finished.
 
 ### Tap Tap
 
-After the finals, the player that lost must tap his bat twice on the table **before** serving, signaling to others that another round can commence. Failing to do so means the player in question loses a life.
+After the finals, the player that lost must tap the bat twice on the table **before** serving, signaling to others that another round can commence. Failing to do so means the player in question loses a life.
 If the player in question doesn't have any lives left, this rule applies to the player who won the round.
 
 ### Dirty Tinus
@@ -83,15 +83,14 @@ Classics are common patterns that return in Round The Table matches, noticably b
 ### Voting
 - A voting system is applied when players are in disagreement, and it's not clear what really happened.
 - Voting at the ping pong table is similar to [Roman Voting](http://ancienthistory.about.com/od/romerepublic/qt/052611-How-the-Romans-Voted-in-the-Roman-Republic.htm), except the players use the colours of their ping pong bats. Black means benefit of doubt, red results elimination from the round. The colour with the most votes rule.
-- When only a single player votes and holds up his ping pong bat to vote, that player is immediately eliminated from the round. When that player was already eliminated, the player has to skip the next round.
+- When only a single player votes and holds up the ping pong bat to vote, that player is immediately eliminated from the round. When that player was already eliminated, the player has to skip the next round.
 
 ### Being not Jens enough
 "Jens" is a synonym for "good". Named after one of the wise elders of the ping pong table, [@jenskanis](https://github.com/jenskanis).
 
 ### Saving another player's life
 - A player can save another player's life by hitting the ball back for the other player, when he's unable to hit it back
-- The player saving the other will loose his life if the player makes a mistake. This way there is always a risk involved helping others.
-- The player saving the other is only allowed to make a defensive move. Only when the opponent screws up himself his life will be lost.
+- The player saving the other will loose its life if the player makes a mistake. This way there is always a risk involved helping others.
 
 ### Promoting Diversity
 Diversity at HackerOne is a hot topic right now. We aim to be as diverse as possible. Not only when working on world-class product, but also during the teambuilding. Therefore any diverse playing member (women, foreigners, visitors from SF) will start any round with one life. That excludes players who own Frisian passport, and players from Brabant.
