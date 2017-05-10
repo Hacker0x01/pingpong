@@ -38,7 +38,7 @@ Sportsmanship and being collegial are important values of the game. Therefore re
 - Ball goes into a weird angle due to hitting the side or corners of the table
 - Ball slightly hits the net drastically changing trajectory
 
-If no proper remorse is shown, can be determined with a vote, the player taking the life loses a life instead.
+If no proper remorse is shown the player taking the life loses a life **instead**.
 
 ### Tinus Time & Jan Time
 - Jan Time and Tinus Time only occurs during a final battle between the last two remaining players.
