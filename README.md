@@ -33,6 +33,12 @@
 - It's illegal to do a Direct Response when the opponent just served.
 - Players can do a Direct Response as you as you don't cross the net/[just](#vocabulary)
 
+### Apology letter
+Sportsmanship and being collegial are important values of the game. Therefore remorse should be shown, saying "Sorry" without laughing, in two situations where a player loses a life:
+- Ball goes into a weird angle due to hitting the side or corners of the table
+- Ball slightly hits the net drastically changing trajectory
+If no proper remorse is shown, can be determined with a vote, the player taking the life loses a life instead.
+
 ### Tinus Time & Jan Time
 - Jan Time and Tinus Time only occurs during a final battle between the last two remaining players.
 - Jan Time is when one of the two finalists makes his first point. It is not allowed to join the table yet, but it's recommended to prepare for it.
