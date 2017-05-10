@@ -37,6 +37,7 @@
 Sportsmanship and being collegial are important values of the game. Therefore remorse should be shown, saying "Sorry" without laughing, in two situations where a player loses a life:
 - Ball goes into a weird angle due to hitting the side or corners of the table
 - Ball slightly hits the net drastically changing trajectory
+
 If no proper remorse is shown, can be determined with a vote, the player taking the life loses a life instead.
 
 ### Tinus Time & Jan Time
