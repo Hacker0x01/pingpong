@@ -66,6 +66,8 @@ Classics are common patterns that return in Round The Table matches, noticably b
 | -------------  |:-------------: |
 | Classic Philip | The ball served by a player never hits the opponent's side by going over the table. Named after [@philipkocanda](https://github.com/philipkocanda) |
 | Classic Dirk   | The ball hits the net ([right in the just](#vocabulary)), mostly during serve. Named after [@DZittersteyn](https://github.com/DZittersteyn) |
+| Classic Jeurissen | Grabbing the ball during live play, because you don’t understand the rules. It’s based on old Roman scriptures, not to be confused with [@alexanderjeurissen ](https://github.com/alexanderjeurissen) |
+
 
 ### Ghost Membering
 - Ghost Membering is for a player to sneak back to the table in the line of players while the player was hit out of the game.
