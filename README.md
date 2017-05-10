@@ -93,7 +93,7 @@ Classics are common patterns that return in Round The Table matches, noticably b
 - The player saving the other will loose his life if the player makes a mistake. This way there is always a risk involved helping others.
 - The player saving the other is only allowed to make a defensive move. Only when the opponent screws up himself his life will be lost.
 
-## Promoting Diversity
+### Promoting Diversity
 Diversity at HackerOne is a hot topic right now. We aim to be as diverse as possible. Not only when working on world-class product, but also during the teambuilding. Therefore any diverse playing member (women, foreigners, visitors from SF) will start any round with one life. That excludes players who own Frisian passport, and players from Brabant.
 
 ## Introducing new laws
