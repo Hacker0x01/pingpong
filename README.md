@@ -93,7 +93,7 @@ Classics are common patterns that return in Round The Table matches, noticably b
 - The player saving the other will loose its life if the player makes a mistake. This way there is always a risk involved helping others.
 
 ### Promoting Diversity
-Diversity at HackerOne is a hot topic. We aim to be as diverse as possible. Not only when working on a world-class product, but also during teambuilding. Therefore any diverse playing member (women, foreigners, visitors from SF) will start any round with one life. That applies only if starting first round or when player has zero lives. So basically it's:
+Diversity at HackerOne is a hot topic. We aim to be as diverse as possible. Not only when working on a world-class product, but also during teambuilding. Therefore any diverse playing member (e.g. women, foreigners, visitors from other locations) will start any round with one life. That applies only if starting first round or when player has zero lives. So basically it's:
 
 ```ruby
 rounds.each do |round|
