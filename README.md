@@ -95,7 +95,7 @@ Classics are common patterns that return in Round The Table matches, noticably b
 - The player saving the other will loose its life if the player makes a mistake. This way there is always a risk involved helping others.
 
 ### Diversity in finals aka "The Freshman Law"
-Diversity at HackerOne is a hot topic. We aim to be as diverse as possible. Not only when working on a world-class product, but also during the Ping Pong finals. Therefore any freshman playing member will start any round with one extra beginners-life. That applies only if starting first round or when player has one normal life. Player loses their freshman status after they end up in finals five times in a row. So basically it's:
+Diversity at HackerOne is a hot topic. We aim to be as diverse as possible. Not only when working on a world-class product, but also during the Ping Pong finals. Therefore any freshman playing member will start any round with one extra beginners-life. That applies only if starting first round or when player has one normal life. Player loses their freshman status after they end up in finals five times in a row. Elder players will wisely and respectfully count the streak. So basically it's:
 
 ```ruby
 rounds.each do |round|
