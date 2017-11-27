@@ -104,5 +104,8 @@ rounds.each do |round|
 end
 ```
 
+### Stashing PingPong balls
+Player is allowed to grab and stash any amount of PingPong balls in their hand. Player shamefully loses one life when caught stashing PingPong balls in pockets.
+
 ## Introducing new laws
 Please make a pull request and the elderly of the table will decide if it's merge-worthy.
