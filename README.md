@@ -65,7 +65,7 @@ If the player in question doesn't have any lives left, this rule applies to the 
 - The blocked player has to shout "gandalf" and make an effort to still try to hit back the ball, preferrably hitting the blocker with the ping pong bat.
 
 ### Table Touch
-It's allowed to touch the table to support your body weight to smash the opponent by bending over the player's side of the table.
+It's **not** allowed to touch the table.
 
 ### Classics
 Classics are common patterns that return in Round The Table matches, noticably by the same players, which is the reason why the classics are named after them.
