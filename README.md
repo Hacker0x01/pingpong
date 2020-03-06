@@ -62,20 +62,13 @@ If the player in question doesn't have any lives left, this rule applies to the 
 
 ### Obstacles
 - It's allowed to [gandalf](#vocabulary) another player. This often happens during [Tinus Time](#tinus-half-time) or when a player is deliberately trying to sabotage the other. 
-- The blocked player has to shout "gandalf" and make an effort to still try to hit back the ball, preferrably hitting the blocker with the ping pong bat.
+- The blocked player has to shout "gandalf" and make an effort to still try to hit back the ball.
+- A "gandalf" only counts when the bat of the player touches the other player.
+- When a player's bat touches another player to deliberatly get a "gandalf" is a valid play, this is called "the insurance".
+- When a player tries to touch another player with its bat to try to get a "gandalf" but fails it's called "reaching". It's not a valid galdalf.
 
 ### Table Touch
 It's **not** allowed to touch the table.
-
-### Classics
-Classics are common patterns that return in Round The Table matches, noticably by the same players, which is the reason why the classics are named after them.
-
-| Classics       | Translates to |
-| -------------  |:-------------: |
-| Classic Philip | The ball served by a player never hits the opponent's side by going over the table. Named after [@philipkocanda](https://github.com/philipkocanda) |
-| Classic Dirk   | The ball hits the net ([right in the just](#vocabulary)), mostly during serve. Named after [@DZittersteyn](https://github.com/DZittersteyn) |
-| Classic Jeurissen | Grabbing the ball during live play, because you don’t understand the rules. It’s based on old Roman scriptures, not to be confused with [@alexanderjeurissen ](https://github.com/alexanderjeurissen) |
-
 
 ### Ghost Membering
 - Ghost Membering is for a player to sneak back to the table in the line of players while the player was hit out of the game.
@@ -86,9 +79,6 @@ Classics are common patterns that return in Round The Table matches, noticably b
 - A voting system is applied when players are in disagreement, and it's not clear what really happened.
 - Voting at the ping pong table is similar to [Roman Voting](http://ancienthistory.about.com/od/romerepublic/qt/052611-How-the-Romans-Voted-in-the-Roman-Republic.htm), except the players use the colours of their ping pong bats. Black means benefit of doubt, red results elimination from the round. The colour with the most votes rule.
 - When only a single player votes and holds up the ping pong bat to vote, that player is immediately eliminated from the round. When that player was already eliminated, the player has to skip the next round.
-
-### Being not Jens enough
-"Jens" is a synonym for "good". Named after one of the wise elders of the ping pong table, [@jenskanis](https://github.com/jenskanis).
 
 ### Saving another player's life
 - A player can save another player's life by hitting the ball back for the other player, when he's unable to hit it back
@@ -105,7 +95,7 @@ end
 ```
 
 ### 1-1 During Finals
-When the score is 1-1 during finals, any of the other players can serve instead of the finalists.
+When the score is 1-1 during finals, any of the other players can serve instade of the finalists. This is called "crazy time".
 
 ### Stashing PingPong balls
 Player is allowed to grab and stash any amount of PingPong balls in their hand. Player shamefully loses one life when caught stashing PingPong balls in pockets.
