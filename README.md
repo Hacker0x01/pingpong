@@ -95,7 +95,7 @@ end
 ```
 
 ### 1-1 During Finals
-When the score is 1-1 during finals, any of the other players can serve instade of the finalists. This is called "crazy time".
+When the score is 1-1 during finals, any of the other players can serve instead of the finalists. This is called "crazy time".
 
 ### Stashing PingPong balls
 Player is allowed to grab and stash any amount of PingPong balls in their hand. Player shamefully loses one life when caught stashing PingPong balls in pockets.
