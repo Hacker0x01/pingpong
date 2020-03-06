@@ -65,7 +65,7 @@ If the player in question doesn't have any lives left, this rule applies to the 
 - The blocked player has to shout "gandalf" and make an effort to still try to hit back the ball.
 - A "gandalf" only counts when the bat of the player touches the other player.
 - When a player's bat touches another player to deliberatly get a "gandalf" is a valid play, this is called "the insurance".
-- When a player tries to touch another player with its bat to try to get a "gandalf" but fails it's called "reaching". It's not a valid galdalf.
+- When a player tries to touch another player with its bat to try to get a "gandalf" but fails it's called "reaching". It's not a valid gandalf.
 
 ### Table Touch
 It's **not** allowed to touch the table.
