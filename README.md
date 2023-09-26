@@ -53,6 +53,10 @@ If no proper remorse is shown the player taking the life loses a life **instead*
 After the finals, the player that lost must tap the bat twice on the table **before** serving, signaling to others that another round can commence. Failing to do so means the player in question loses a life.
 If the player in question doesn't have any lives left, this rule applies to the player who won the round.
 
+### Full Bertijn
+
+If during the final you double tap on the table before winning (see [Tap Tap](#tap-tap)), you will lose the final. This is called a Full Bertijn.
+
 ### Dirty Tinus
 - When a player serves immediately after the mistake of a previous player
 - This is only allowed when the table is in a valid state; there's no
